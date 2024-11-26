@@ -1,3 +1,9 @@
+# ignored directories
+docs/
+not_included/
+README_files/
+README.html
+
 # History files
 .Rhistory
 .Rapp.history
@@ -47,3 +53,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+/.quarto/
